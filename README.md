@@ -6,7 +6,6 @@
 
 **Best launcher for [Voxel Core](https://github.com/MihailRis/VoxelEngine-Cpp)**
 
-[![][commit]]()
 [![][license]]()  
 [![][stars]](https://github.com/finesoldatik/finelauncher-releases)
 [![][downloads]]()
@@ -29,7 +28,6 @@ Contributors \
 [logo-url]: https://raw.githubusercontent.com/finesoldatik/finelauncher-releases/refs/heads/main/logo.png
 [discord-url]: https://discord.com/invite/uzrJwm8pTK
 
-[commit]: https://img.shields.io/github/last-commit/finesoldatik/finelauncher-releases?label=Last%20commit&color=blue
 [license]: https://img.shields.io/github/license/finesoldatik/finelauncher-releases?label=License&color=blue
 [stars]: https://badgen.net/github/stars/finesoldatik/finelauncher-releases?label=GitHub%20stars&color=blue
 [downloads]: https://img.shields.io/github/downloads/finesoldatik/finelauncher-releases/total.svg?label=Downloads&color=blue
