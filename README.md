@@ -33,5 +33,5 @@ Contributors \
 [downloads]: https://img.shields.io/github/downloads/finesoldatik/finelauncher-releases/total.svg?label=Downloads&color=blue
 [discord]: https://badgen.net/discord/members/uzrJwm8pTK?label=Discord&color=blue
 
-[contributors_img]: https://contrib.rocks/image?repo=finesoldatik/finelauncher-releases&columns=25&anon=1&max=300
-[contributors]: https://github.com/finesoldatik/finelauncher/graphs/contributors-releases
+[contributors_img]: https://contrib.rocks/image?repo=finesoldatik/finelauncher&columns=25&anon=1&max=300
+[contributors]: https://github.com/finesoldatik/finelauncher/graphs/contributors
