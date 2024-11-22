@@ -26,7 +26,7 @@ Contributors \
 
 </div>
 
-[logo-url]: https://raw.githubusercontent.com/finesoldatik/finelauncher/refs/heads/main/src-tauri/icons/Square150x150Logo.png
+[logo-url]: https://raw.githubusercontent.com/finesoldatik/finelauncher-releases/refs/heads/main/logo.png
 [discord-url]: https://discord.com/invite/uzrJwm8pTK
 
 [commit]: https://img.shields.io/github/last-commit/finesoldatik/finelauncher-releases?label=Last%20commit&color=blue
